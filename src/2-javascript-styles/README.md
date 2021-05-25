@@ -1,0 +1,1 @@
+![Style Guide](../misc/images/js-style.png)
